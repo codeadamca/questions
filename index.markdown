@@ -4,17 +4,30 @@
 
 ## Interview Questions
 
-These questions are collected from the internet and books like [Are you Smart Enough to Work at Google?](https://www.indigo.ca/en-ca/are-you-smart-enough-to-work-at-google/9780316099981.html). They include questions programmers may be faced with during a job interview. 
+These questions are collected from books like [Are you Smart Enough to Work at Google?](https://www.indigo.ca/en-ca/are-you-smart-enough-to-work-at-google/9780316099981.html) and accross the internet. They include questions programmers may be faced with during a job interview. Long gone are the days where you are asked about your greatness weaknesses!
 
 ![Greatest Weakness](images/greatest-weakness.jpg)
 
+- [Shoelaces](/shoelaces)
 
-## Activities in Progress
+## Questions in Progress
 
-- [Tallest Tower](tower)
-- [Art Piece](/art)
-- [Coloured Blocks Puzzle](/blocks)
-- [Three Tiered Pole Puzzle](/pole)
+- [27 Coins](/coins)
+- [Hourglass](/hourglass)
+- [Chairlift](/chairlift)
+- [Analog Clock](/analog)
+- [Block of Cheese](/cheese)
+- [Black and White Hats](/hats)
+- [Cheryl's Birthday](/cheryl)
+- [Shaking Hands](/hands)
+- [Prom Night](/prom)
+- [Missing Page](/page)
+- [Hike with Dogs](/hike)
+- [Cave In](/cave)
+- [Bronze Mermaid](/mermaid)
+- [Traffic Woes](/traffic)
+- [Coins for Change](/change)
+- [Integers](/integers)
 
 ---
 
