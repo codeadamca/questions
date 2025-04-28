@@ -14,8 +14,8 @@ The point of this question is **NOT** to provide a number. The point is to obser
 
 <summary>A potential solution would include the following considerations:</summary>
 
-- Test 
-- Test 2 
+ - Test 
+ - Test 2 
 
 </details>
 
