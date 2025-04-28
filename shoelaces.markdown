@@ -10,11 +10,37 @@ The point of this question is **NOT** to provide a number. The point is to obser
 
 ## Solution
 
+A potential solution would include the following considerations:
+
+<div class="hide-content">
+
+ - Test 
+ - Test 2 
+ 
+</div>
+
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section.
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
 
 
 ## Alternatives
 
-I have often had students returnt o campus and express that they received the **shoelace** question in a job interview. This questions has many forms, but the principle is the same:
+I have often had students return to campus and express that they received the **shoelace** question in a job interview. This questions has many forms, but the principle is the same:
+
+### How many loaves of bread are there in Canada?
 
 ### How many loaves of bread are there in Canada?
 
