@@ -12,15 +12,17 @@ The point of this question is **NOT** to provide a number. The point is to obser
 
 <details>
 
-<summary>
-A potential solution would include the following considerations:
-</summary>
+<summary>Tips for collapsed sections</summary>
 
-### TESTING CONTENT
+### You can add a header
 
- - Test  
- - Test 2  
+You can add text within a collapsed section.
 
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
 
 </details>
 
