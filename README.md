@@ -21,7 +21,7 @@ This project uses only [Markdown](https://www.markdownguide.org/) and is hosted 
 ## Repo Resources
 
 - [CodeAdam](https://codeadam.ca/)
-- [CodeAdam Challenges](https://challenges.codeadam.ca/)
+- [CodeAdam Questions](https://questions.codeadam.ca/)
 
 <br>
 <a href="https://codeadam.ca">
