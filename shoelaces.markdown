@@ -10,28 +10,12 @@ The point of this question is **NOT** to provide a number. The point is to obser
 
 ## Solution
 
-A potential solution would include the following considerations:
-
-<div class="hide-content">
-
- - Test 
- - Test 2 
- 
-</div>
-
 <details>
 
-<summary>Tips for collapsed sections</summary>
+<summary>A potential solution would include the following considerations:</summary>
 
-### You can add a header
-
-You can add text within a collapsed section.
-
-You can add an image or a code block, too.
-
-```ruby
-   puts "Hello World"
-```
+- Test 
+- Test 2 
 
 </details>
 
