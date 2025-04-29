@@ -16,12 +16,26 @@ The point of this question is **NOT** to provide a number. The point is to obser
 A potential solution would include the following considerations:
 </summary>
 
-<div>
+<ul>
+<li>The population of Canada</li>
+<li>Shoes have two laces</li>
+</ul>
 
-- Test  
-- Test 2  
+Often interviewees will stop after stating these two facts, a good answer could include the following:
 
+<ul>
+<li>People have more than one pari of shoes</li>
+<li>Some shoes do not have laces</li>
+<li>There are shoes in stores and factories</li>
+<li>There are laces not yet in shoes</li>
+</ul>
 
+And some more advanced additions:
+
+<ul>
+<li>Ther are lots of shoelaces in the garbage dump</li>
+<li>There are shoelaces in skates and rollerblades</li>
+</ul>
 
 </div>
 
