@@ -49,7 +49,7 @@ I have often had students return to campus and express that they received the **
 
 ### How many loaves of bread are there in Canada?
 
-### How many loaves of bread are there in Canada?
+### How many tires are there in Canada?
 
 ---
 
