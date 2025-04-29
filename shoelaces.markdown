@@ -13,8 +13,10 @@ The point of this question is **NOT** to provide a number. The point is to obser
 <details>
 
 <summary>
-A potential solution would include the following considerations:
+CLICK TO REVEAL
 </summary>
+
+A potential solution would include the following considerations:
 
 <ul>
 <li>The population of Canada</li>
