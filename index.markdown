@@ -28,6 +28,7 @@ These questions are collected from books like [Are you Smart Enough to Work at G
 - [Traffic Woes](/traffic)
 - [Coins for Change](/change)
 - [Integers](/integers)
+- [Rickety Bridge](/bridge)
 
 ---
 
