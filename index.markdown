@@ -30,6 +30,9 @@ These questions are collected from books like [Are you Smart Enough to Work at G
 - [Integers](/integers)
 - [Rickety Bridge](/bridge)
 
+<div class="components" id="resources">--resources--</div>
+<script src="https://cdn.codeadam.ca/components@1.0.0/components.js"></script>
+
 ---
 
 <a href="https://codeadam.ca">
