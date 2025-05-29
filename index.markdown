@@ -4,9 +4,9 @@
 
 ## Interview Questions
 
-These questions are collected from books like [Are you Smart Enough to Work at Google?](https://www.indigo.ca/en-ca/are-you-smart-enough-to-work-at-google/9780316099981.html) and accross the internet. They include questions programmers may be faced with during a job interview. Long gone are the days where you are asked about your greatness weaknesses!
-
 ![Greatest Weakness](images/greatest-weakness.jpg)
+
+These questions are collected from books like [Are you Smart Enough to Work at Google?](https://www.indigo.ca/en-ca/are-you-smart-enough-to-work-at-google/9780316099981.html) and accross the internet. They include questions programmers may be faced with during a job interview. Long gone are the days where you are asked about your greatness weaknesses!
 
 - [Shoelaces](/shoelaces)
 
